@@ -1,8 +1,8 @@
 ### ***Hi there*** 👋
 
 ```diff
-const response = {
-  + status: 202,
++ const response = {
+  status: 202,
   data: {
     name: "Sobhan Asadi",
     nickname: "</Ctr+S>",
