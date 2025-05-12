@@ -1,20 +1,19 @@
 ### ***Hi there*** 👋
 
 ```diff
-const response = {
- + status: 202,
++ const response = {
+  status: 202,
   data: {
     name: "Sobhan Asadi",
     nickname: "</Ctr+S>",
     skills: ["JavaScript", "CSS", "HTML", "..."],
     learning: "Currently learning React",
-    interests: [ "I enjoy facing challenges", "I love collaborating and working in teams" ],
+    interests: ["I enjoy facing challenges", "I love collaborating and working in teams"],
     contact: {
-      email: "sobhanasadi703@gmail.com" 
+      email: "sobhanasadi703@gmail.com"
     }
   }
 };
-
 ```
 
 > ## `My activities`
