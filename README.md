@@ -8,22 +8,22 @@ Currently diving into **React** and always looking for opportunities to learn an
 ## 🚀 About Me (as a response object)
 
 ```diff
-+ const response = {
+const response = {
 +   status: 202,
-+   data: {
+    data: {
 +     name: "Sobhan Asadi",
-+     nickname: "</Ctr+S>",
+      nickname: "</Ctr+S>",
 +     skills: ["JavaScript", "CSS", "HTML", "..."],
 +     learning: "Currently learning React",
-+     interests: [
+      interests: [
 +       "I enjoy facing challenges",
 +       "I love collaborating and working in teams"
-+     ],
-+     contact: {
-+       email: "sobhanasadi703@gmail.com"
-+     }
-+   }
-+ };
+      ],
+      contact: {
++      email: "sobhanasadi703@gmail.com"
+      }
+     }
+   };
 ```
 
 > ## `My activities`
