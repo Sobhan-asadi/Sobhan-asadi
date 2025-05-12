@@ -2,7 +2,7 @@
 
 ```
 const response = {
- + status: 202,
+ +  status: 202,
   data: {
     name: "Sobhan Asadi",
     nickname: "</Ctr+S>",
