@@ -9,20 +9,20 @@ Currently diving into **React** and always looking for opportunities to learn an
 
 ```diff
 const response = {
-+   status: 202,
-    data: {
-     name: "Sobhan Asadi",
-      nickname: "</Ctr+S>",
++ status: 202,
+  data: {
+  name: "Sobhan Asadi",
+    nickname: "</Ctr+S>",
       skills: ["JavaScript", "CSS", "HTML", "..."],
-     learning: "Currently learning React",
-      interests: [
-+       "I enjoy facing challenges",
-+       "I love collaborating and working in teams"
-      ],
-      contact: {
-+      email: "sobhanasadi703@gmail.com"
-      }
-     }
+        learning: "Currently learning React",
+          interests: [
+            +       "I enjoy facing challenges",
+            +       "I love collaborating and working in teams"
+          ],
+            contact: {
+    +      email: "sobhanasadi703@gmail.com";
+  }
+}
    };
 ```
 
