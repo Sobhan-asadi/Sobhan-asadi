@@ -19,7 +19,7 @@ const response = {
 +    interests: ["I enjoy facing challenges", "I love collaborating and working in teams"],
 
     contact: {
- +     email: "sobhanasadi703@gmail.com";
++    email: "sobhanasadi703@gmail.com";
     }
   }
 };
