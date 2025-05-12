@@ -8,10 +8,7 @@ const response = {
     nickname: "</Ctr+S>",
     skills: ["JavaScript", "CSS", "HTML", "..."],
     learning: "Currently learning React",
-    interests: [
-  "I enjoy facing challenges",
-  "I love collaborating and working in teams"
-    ],
+    interests: [ "I enjoy facing challenges", "I love collaborating and working in teams" ],
     contact: {
       email: "sobhanasadi703@gmail.com" 
     }
