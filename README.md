@@ -1,9 +1,5 @@
-# 👋 Hi there! I'm Sobhan Asadi
+# 👋 Hi there! ❤
 
-I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.  
-Currently diving into **React** and always looking for opportunities to learn and grow.
-
----
 
 ## 🚀 About Me (as a response object)
 
@@ -22,6 +18,9 @@ const response = {
   }
 };
 ```
+
+I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.  
+Currently diving into **React** and always looking for opportunities to learn and grow.
 
 <!-- Line for spacing -->
 
