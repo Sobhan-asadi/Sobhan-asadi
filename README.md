@@ -7,31 +7,28 @@ Currently diving into **React** and always looking for opportunities to learn an
 
 ## 🚀 About Me (as a response object)
 
-```diff
+```js
 const response = {
-+  status: 202,
+  status: 202,
   data: {
     name: "Sobhan Asadi",
     nickname: "</Ctr+S>",
-    skills: ["JavaScript", "CSS", "HTML", "..."],
-
+    skills: ["JavaScript", "CSS", "HTML", "React", "Git", "GitHub"],
     learning: "Currently learning React",
-+    interests: ["I enjoy facing challenges", "I love collaborating and working in teams"],
-
+    interests: ["I enjoy facing challenges", "I love collaborating and working in teams"],
     contact: {
-+    email: "sobhanasadi703@gmail.com";
+      email: "sobhanasadi703@gmail.com"
     }
   }
 };
 ```
 
 > ## `My activities`
-<img src="https://github-readme-stats.vercel.app/api?username=Sobhan-asadi&show_icons=true&theme=ambient_gradient"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sobhan-asadi&show_icons=true&theme=ambient_gradient" />
 
-> ##  📊 Languages I have worked with in this project
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-asadi&hide_progress=true"/>
+> ## 📊 Languages I have worked with in this project
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-asadi&hide_progress=true" />
 
 ## 📫 Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourUsername)
-
