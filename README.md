@@ -22,6 +22,8 @@ const response = {
 I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.  
 Currently diving into **React** and always looking for opportunities to learn and grow.
 
+<br/>
+
 <!-- Line for spacing -->
 
 ---
@@ -37,10 +39,11 @@ Currently diving into **React** and always looking for opportunities to learn an
   <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" alt="TailwindCSS"/>
 </p>
 
-
 <!-- Line for spacing -->
 
 ---
+
+<br/>
 
 📊 My GitHub Stats
 
