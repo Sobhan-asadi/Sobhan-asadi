@@ -1,9 +1,7 @@
-
-
 #  Hi there! 👋 
 
 
-## 🚀 About Me (as a response object)
+## 🚀 About Me 
 
 ```js
 const response = {
@@ -11,18 +9,18 @@ const response = {
   data: {
     name: "Sobhan Asadi",
     nickname: "</Ctr+S>",
-    skills: ["JavaScript", "CSS", "HTML", "React", "Git", "GitHub"],
-    learning: "Currently learning React",
+    skills: [ "CSS", "HTML","TailwindCSS","JavaScript", "React", "Next.js", "Redux", "Git", "GitHub"],
     interests: ["I enjoy facing challenges", "I love collaborating and working in teams"],
     contact: {
       email: "sobhanasadi703@gmail.com"
     }
   }
 };
+
 ```
 
-I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.  
-Currently diving into **React** and always looking for opportunities to learn and grow.
+I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.
+Skilled in React, Next.js, Redux, and modern front-end technologies — always eager to push boundaries and learn more.
 
 <br/>
 
