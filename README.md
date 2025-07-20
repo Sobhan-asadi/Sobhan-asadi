@@ -1,8 +1,6 @@
 # Hi there! 👋 
 
-<p align="center">
-  <img src="https://github.com/Sobhan-asadi.png" width="150" style="border-radius: 50%;" alt="Sobhan Asadi Avatar"/>
-</p>
+
 
 ## 🚀 About Me (as a response object)
 
@@ -21,8 +19,11 @@ const response = {
 };
 
 
-I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.  
-Currently diving into **React** and always looking for opportunities to learn and grow.
+
+I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.
+Skilled in React, Next.js, Redux, and modern front-end technologies — always eager to push boundaries and learn more.
+
+
 
 <br/>
 
@@ -31,16 +32,7 @@ Currently diving into **React** and always looking for opportunities to learn an
 ---
 
 ## 🛠️ Tech Stack
-<p align="left"> 
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> 
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <br/>
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" alt="React"/>
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" alt="JavaScript"/>
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="120" alt="TailwindCSS"/>
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/> </p>
 
 <!-- Line for spacing -->
 
@@ -50,7 +42,7 @@ Currently diving into **React** and always looking for opportunities to learn an
 
 📊 My GitHub Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Sobhan-asadi&show_icons=true&theme=ambient_gradient" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sobhan-asadi&show_icons=true&theme=ambient_gradient" />
 
 📈 Most Used Languages
 
