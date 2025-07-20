@@ -1,5 +1,8 @@
-#  Hi there! 👋 
+# Hi there! 👋 
 
+<p align="center">
+  <img src="https://github.com/Sobhan-asadi.png" width="150" style="border-radius: 50%;" alt="Sobhan Asadi Avatar"/>
+</p>
 
 ## 🚀 About Me (as a response object)
 
@@ -9,15 +12,14 @@ const response = {
   data: {
     name: "Sobhan Asadi",
     nickname: "</Ctr+S>",
-    skills: ["JavaScript", "CSS", "HTML", "React", "Git", "GitHub"],
-    learning: "Currently learning React",
+    skills: ["JavaScript", "CSS", "HTML", "React", "Next.js", "Redux", "Git", "GitHub"],
     interests: ["I enjoy facing challenges", "I love collaborating and working in teams"],
     contact: {
       email: "sobhanasadi703@gmail.com"
     }
   }
 };
-```
+
 
 I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.  
 Currently diving into **React** and always looking for opportunities to learn and grow.
