@@ -1,5 +1,4 @@
-# Hi there! 👋 
-
+#  Hi there! 👋 
 
 
 ## 🚀 About Me (as a response object)
@@ -19,7 +18,6 @@ const response = {
 };
 
 
-
 I'm a passionate front-end developer with a love for clean code, creative challenges, and strong teamwork.
 Skilled in React, Next.js, Redux, and modern front-end technologies — always eager to push boundaries and learn more.
 
@@ -32,7 +30,7 @@ Skilled in React, Next.js, Redux, and modern front-end technologies — always e
 ---
 
 ## 🛠️ Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/> </p>
+<p align="left"> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/> <br/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" alt="React"/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" alt="Next.js"/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80" alt="Redux"/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" alt="JavaScript"/> <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="120" alt="TailwindCSS"/> </p><!-- Line for spacing -->
 
 <!-- Line for spacing -->
 
@@ -41,11 +39,9 @@ Skilled in React, Next.js, Redux, and modern front-end technologies — always e
 <br/>
 
 📊 My GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sobhan-asadi&show_icons=true&theme=ambient_gradient" />
 
 📈 Most Used Languages
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-asadi&layout=compact&theme=ambient_gradient" />
 
 ## 📫 Contact Me
